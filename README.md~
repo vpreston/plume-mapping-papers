@@ -54,6 +54,11 @@ G. Hitz, F. Pomerleau, M. E. Garneau, C. Pradalier, T. Posch, J. Pernthaler, and
 > A cabled probe for vertical profiling is added to a surface vessel. ROS on a Helios development ket is used to define waypoint-oriented missions.
 
 
+S. Isler, R. Sabzevari, J. Delmerico, and D. Scaramuzza, "An information gain formulation for active volumetic 3d reconstruction," Robotics and Automation, 2016 IEEE Conference on, IEEE, 2016.
+
+> TODO
+
+
 W. Li, C. Bloomquist, M. M. Elgassier, and K. Srivastava, "Multisensor integration for declaring the odor source of a plume in turbulent fluid-advected environments," in Intelligent Robots and Systems, 2006 IEEE/RSJ International Conference on, IEEE, 2006, pp. 5534-5539.
 
 > Fuzzy logic (segmentation algorithm) is used on visual images and sensor input to create a onvergent estimate for the point source of a plume. A behavior-based subsumption architecture is used to navigate the vehicle.
