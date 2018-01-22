@@ -41,7 +41,7 @@ B. Fletcher, "Chemical plume mapping with an autonomous underwater vehicle," in 
 
 H. Hajieghrary, A. F. Tomas, and M. A. Hsieh, "An information theoretic source seeking strategy for plume tracking in 3d turbulent fields," Safety, Security, and Rescue Robotics, IEEE, 2015.
 
-> TODO
+2D and 3D environments of the 2010 Deepwater Horizon oil spill are adaptively searchd/localized using single and multi-vehicles which employ an entropy reduction and bayesian estimation approach.
 
 
 J. B. Harvey, J. P. Ryan, R. Marin, C. M. Preston, N. Alvarado, C. A. Scholin, and R. C. Vrijenhoek, "Robotic sampling, in situ monitoring and molecular detection of marine zooplankton," Journal of Experimental Marine Biology and Ecology, vol. 413, pp. 60-70, 2012.
